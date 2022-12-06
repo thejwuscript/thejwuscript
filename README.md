@@ -5,11 +5,21 @@
 - &nbsp;:grey_exclamation: &nbsp;Fun fact: I'm a 1-dan Go player
 ## Projects
 
-| <h3>Odinbook</h3> <img src="https://user-images.githubusercontent.com/88938117/202895196-fce52b1c-1e91-42a5-9340-59e845a79464.png" width="380"><br><br> <a href="https://github.com/thejwuscript/odinbook"><img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github&color=black"/></a> &nbsp; &nbsp; <img src="https://img.shields.io/badge/-demo-purple?style=for-the-badge&color=3C005A"/> | <h3>Chess</h3> <img src="https://user-images.githubusercontent.com/88938117/202895199-fa07bcb8-c4e8-4723-90f3-1764e3e3068b.png" alt="chess" width="380"><br><br> <a href="https://github.com/thejwuscript/chess"><img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github&color=black"/></a> &nbsp; &nbsp; <a href="https://replit.com/@thejwuscript/Chess"><img src="https://img.shields.io/badge/-demo-purple?style=for-the-badge&color=3C005A"/></a>  |
-|----------|-------|
-| <h3 align="center">Seek & Find</h3> <img src="https://user-images.githubusercontent.com/88938117/205905909-51b3dbf0-ee62-445b-968a-5b47254c7e65.png" width="380" alt="seek and find rounded corner"><br><br> <div align="center"><a href="https://github.com/thejwuscript/seek-and-find"><img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github&color=black"/></a> &nbsp; &nbsp; <a href="https://seek-and-find.netlify.app/"><img src="https://img.shields.io/badge/-demo-purple?style=for-the-badge&color=3C005A"/></a></div> | |
-
-
+<table>
+  <tr>
+    <td><br><img src="https://user-images.githubusercontent.com/88938117/202895196-fce52b1c-1e91-42a5-9340-59e845a79464.png" width="380"><br><br></td>
+    <td><h3 align="center">Odinbook</h3> <p>A lightweight social media app with all the essentials.</p> <br> <div align="center"><a href="https://github.com/thejwuscript/odinbook"><img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github&color=black"/></a> &nbsp; &nbsp; <img src="https://img.shields.io/badge/-demo-purple?style=for-the-badge&color=3C005A"/></div></td>
+  </tr>
+  <tr>
+    <td><br><img src="https://user-images.githubusercontent.com/88938117/202895199-fa07bcb8-c4e8-4723-90f3-1764e3e3068b.png" alt="chess" width="380"><br><br></td>
+    <td><h3 align="center">Chess</h3> <p align="center">A command line board game written in Ruby.</p> <br> <div align="center"><a href="https://github.com/thejwuscript/chess"><img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github&color=black"/></a> &nbsp; &nbsp; <a href="https://replit.com/@thejwuscript/Chess"><img src="https://img.shields.io/badge/-demo-purple?style=for-the-badge&color=3C005A"/></a></div></td>
+  </tr>
+  <tr>
+    <td><br><img src="https://user-images.githubusercontent.com/88938117/205905909-51b3dbf0-ee62-445b-968a-5b47254c7e65.png" width="380" alt="seek and find rounded corner"><br><br></td>
+    <td><h3 align="center">Seek & Find</h3> <p align="center">A Where's Waldo-like photo tagging game.</p> <br> <div align="center"><a href="https://github.com/thejwuscript/seek-and-find"><img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github&color=black"/></a> &nbsp; &nbsp; <a href="https://seek-and-find.netlify.app/"><img src="https://img.shields.io/badge/-demo-purple?style=for-the-badge&color=3C005A"/></a></div></td>
+  </tr>
+</table>
+    
 ## Technologies
 
 #### Languages
