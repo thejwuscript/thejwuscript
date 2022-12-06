@@ -7,6 +7,7 @@
 
 | <h3>Odinbook</h3> <img src="https://user-images.githubusercontent.com/88938117/202895196-fce52b1c-1e91-42a5-9340-59e845a79464.png" width="380"><br><br> <a href="https://github.com/thejwuscript/odinbook"><img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github&color=black"/></a> &nbsp; &nbsp; <img src="https://img.shields.io/badge/-demo-purple?style=for-the-badge&color=3C005A"/> | <h3>Chess</h3> <img src="https://user-images.githubusercontent.com/88938117/202895199-fa07bcb8-c4e8-4723-90f3-1764e3e3068b.png" alt="chess" width="380"><br><br> <a href="https://github.com/thejwuscript/chess"><img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github&color=black"/></a> &nbsp; &nbsp; <a href="https://replit.com/@thejwuscript/Chess"><img src="https://img.shields.io/badge/-demo-purple?style=for-the-badge&color=3C005A"/></a>  |
 |----------|-------|
+| <h3 align="center">Seek & Find</h3> <img src="https://user-images.githubusercontent.com/88938117/205876447-ec099e56-1ec2-4a0c-8150-02d8b7658091.PNG" width="380"><br><br> <a href="https://github.com/thejwuscript/seek-and-find"><img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github&color=black"/></a> &nbsp; &nbsp; <a href="https://seek-and-find.netlify.app/"><img src="https://img.shields.io/badge/-demo-purple?style=for-the-badge&color=3C005A"/></a> | |
 
 ## Technologies
 
