@@ -1,7 +1,7 @@
 # :wave: Hi, I'm James
 - :triangular_flag_on_post: Full Stack Developer
 - :man_health_worker: Background in Pharmacy
-- :bicyclist: Interested in health technologies
+- 📗: Interested in learning new technologies to solve real-world problems
 - &nbsp;:grey_exclamation: &nbsp;Fun fact: I'm a 1-dan Go player
 ## Projects
 
@@ -12,7 +12,7 @@
   </tr>
   <tr>
     <td width="400"><br><a href="https://github.com/thejwuscript/seek-and-find"><img src="https://user-images.githubusercontent.com/88938117/205905909-51b3dbf0-ee62-445b-968a-5b47254c7e65.png" width="380" alt="seek and find rounded corner"></a><br><br></td>
-    <td><h3 align="center">Seek & Find</h3> <p align="center">A Where's Waldo-like photo tagging game.</p> <br> <div align="center"><a href="https://github.com/thejwuscript/seek-and-find"><img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github&color=black"/></a> &nbsp; &nbsp; <a href="https://seek-and-find.netlify.app/"><img src="https://img.shields.io/badge/-demo-purple?style=for-the-badge&color=3C005A"/></a></div></td>
+    <td><h3 align="center">Seek & Find</h3> <p align="center">A Where's Waldo style photo tagging game.</p> <br> <div align="center"><a href="https://github.com/thejwuscript/seek-and-find"><img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github&color=black"/></a> &nbsp; &nbsp; <a href="https://seek-and-find.netlify.app/"><img src="https://img.shields.io/badge/-demo-purple?style=for-the-badge&color=3C005A"/></a></div></td>
   </tr>
   <tr>
     <td width="400"><br><a href="https://github.com/thejwuscript/chess"><img src="https://user-images.githubusercontent.com/88938117/202895199-fa07bcb8-c4e8-4723-90f3-1764e3e3068b.png" alt="chess" width="380"></a><br><br></td>
