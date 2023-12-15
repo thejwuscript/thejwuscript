@@ -2,7 +2,7 @@
 - :triangular_flag_on_post: Full Stack Developer
 - :man_health_worker: Background in Pharmacy
 - 📗 Interested in learning new technologies to solve real-world problems
-- &nbsp;:grey_exclamation: &nbsp;Fun fact: I'm a 1-dan Go player
+- :grey_exclamation: &nbsp;Fun fact: I'm a 1-dan Go player
 ## Projects
 
 <table>
