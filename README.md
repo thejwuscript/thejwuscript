@@ -7,13 +7,20 @@
 
 <table>
   <tr>
-    <td width="400"><br><a href="https://github.com/thejwuscript/odinbook"><img src="https://user-images.githubusercontent.com/88938117/202895196-fce52b1c-1e91-42a5-9340-59e845a79464.png" width="380"></a><br><br></td>
-    <td width="400"><h3 align="center">Odinbook</h3> <p align="center">A lightweight social media app with all the essentials.</p> <br> <div align="center"><a href="https://github.com/thejwuscript/odinbook"><img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github&color=black"/></a> &nbsp; &nbsp; <a href="https://odinbook-xzzv.onrender.com"><img src="https://img.shields.io/badge/-demo-purple?style=for-the-badge&color=3C005A"/></a></div></td>
-  </tr>
-  <tr>
     <td width="400"><br><a href="https://github.com/thejwuscript/seek-and-find"><img src="https://user-images.githubusercontent.com/88938117/205905909-51b3dbf0-ee62-445b-968a-5b47254c7e65.png" width="380" alt="seek and find rounded corner"></a><br><br></td>
     <td><h3 align="center">Seek & Find</h3> <p align="center">A Where's Waldo style photo tagging game.</p> <br> <div align="center"><a href="https://github.com/thejwuscript/seek-and-find"><img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github&color=black"/></a> &nbsp; &nbsp; <a href="https://seek-and-find.netlify.app/"><img src="https://img.shields.io/badge/-demo-purple?style=for-the-badge&color=3C005A"/></a></div></td>
   </tr>
+
+   <tr>
+    <td width="400"><br><a href="https://github.com/thejwuscript/dietgoals"><img src="https://github.com/thejwuscript/thejwuscript/assets/88938117/75d495a3-aaa4-487d-b27a-b683a00886c9" width="380" alt="dietgoals rounded corner"></a><br><br></td>
+    <td><h3 align="center">DietGoals</h3> <p align="center">A no-frills calorie tracker to reach your goals.</p> <br> <div align="center"><a href="https://github.com/thejwuscript/dietgoals"><img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github&color=black"/></a> &nbsp; &nbsp; <a href="https://dietgoals.site"><img src="https://img.shields.io/badge/-demo-purple?style=for-the-badge&color=3C005A"/></a></div></td>
+  </tr>
+  
+  <tr>
+    <td width="400"><br><a href="https://github.com/thejwuscript/odinbook"><img src="https://user-images.githubusercontent.com/88938117/202895196-fce52b1c-1e91-42a5-9340-59e845a79464.png" width="380"></a><br><br></td>
+    <td width="400"><h3 align="center">Odinbook</h3> <p align="center">A lightweight social media app with all the essentials.</p> <br> <div align="center"><a href="https://github.com/thejwuscript/odinbook"><img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github&color=black"/></a> &nbsp; &nbsp; <a href="https://odinbook-xzzv.onrender.com"><img src="https://img.shields.io/badge/-demo-purple?style=for-the-badge&color=3C005A"/></a></div></td>
+  </tr>
+  
   <tr>
     <td width="400"><br><a href="https://github.com/thejwuscript/chess"><img src="https://user-images.githubusercontent.com/88938117/202895199-fa07bcb8-c4e8-4723-90f3-1764e3e3068b.png" alt="chess" width="380"></a><br><br></td>
     <td><h3 align="center">Chess</h3> <p align="center">A command line board game written in Ruby.</p> <br> <div align="center"><a href="https://github.com/thejwuscript/chess"><img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github&color=black"/></a> &nbsp; &nbsp; <a href="https://replit.com/@thejwuscript/Chess"><img src="https://img.shields.io/badge/-demo-purple?style=for-the-badge&color=3C005A"/></a></div></td>
