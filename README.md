@@ -12,8 +12,8 @@
   </tr>
 
    <tr>
-    <td width="400"><br><a href="https://github.com/thejwuscript/dietgoals"><img src="https://github.com/thejwuscript/thejwuscript/assets/88938117/75d495a3-aaa4-487d-b27a-b683a00886c9" width="380" alt="dietgoals rounded corner"></a><br><br></td>
-    <td><h3 align="center">DietGoals</h3> <p align="center">A no-frills calorie tracker to reach your goals.</p> <br> <div align="center"><a href="https://github.com/thejwuscript/dietgoals"><img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github&color=black"/></a> &nbsp; &nbsp; <a href="https://dietgoals.site"><img src="https://img.shields.io/badge/-demo-purple?style=for-the-badge&color=3C005A"/></a></div></td>
+    <td width="400"><br><a href="https://github.com/thejwuscript/dietgoals-api"><img src="https://github.com/thejwuscript/thejwuscript/assets/88938117/75d495a3-aaa4-487d-b27a-b683a00886c9" width="380" alt="dietgoals rounded corner"></a><br><br></td>
+    <td><h3 align="center">DietGoals</h3> <p align="center">A no-frills calorie tracker to reach your goals.</p> <br> <div align="center"><a href="https://github.com/thejwuscript/dietgoals-api"><img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github&color=black"/></a> &nbsp; &nbsp; <a href="https://dietgoals.site"><img src="https://img.shields.io/badge/-demo-purple?style=for-the-badge&color=3C005A"/></a></div></td>
   </tr>
   
   <tr>
